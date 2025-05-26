@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @abd-elrahman-sattouf
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Dbian
-- 💞️ I’m looking to collaborate on backend project(node and express)
+- 👀 I’m interested in fullstack development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on frontend project(react)
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: do you know that HTML stands for How To Make Love
 
 <!---
