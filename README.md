@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @abd-elrahman-sattouf
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on frontend project(react)
-- 📫 How to reach me ...
-- ⚡ Fun fact: do you know that HTML stands for How To Make Love
-
-<!---
-abd-elrahman-sattouf/abd-elrahman-sattouf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 I’m a junior fullstack developer passionate about building web applications
+- 🌱 Currently learning React and expanding my backend skills with Node.js and Express
+- 💡 I enjoy working on both frontend (React, HTML, CSS, JavaScript) and backend projects (Node.js, Express, MongoDB)
+- 🤝 Open to collaborating on fullstack or frontend projects
+- 📫 You can reach me via GitHub 
+- ⚡ Fun fact: someone said that HTML stands for How To Meet Lady
